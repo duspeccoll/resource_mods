@@ -1,0 +1,8 @@
+en:
+  plugins:
+    resource_mods:
+      title: Resource MODS Download
+      label: Resource MODS Download
+      actions:
+        download: Download
+        export_mods: Export MODS
